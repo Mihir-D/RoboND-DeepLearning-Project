@@ -4,7 +4,9 @@
 2. [Model Training HTML file](./model_training.html)
 3. [Model Training ipynb File](./model_training.ipnyb)
 4. [Trained Weights File](./data/weights)
-5. [Additional Images Used](./data/new_images)
+
+
+------
 
 ------
 
